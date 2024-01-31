@@ -18,4 +18,4 @@ For the usage of our Woodpecker instance, keep the following in mind:
 If you are just curious about Woodpecker or already got access to a Woodpecker instance, the Woodpecker project has a [great documentation](https://woodpecker-ci.org/docs/intro) on how to use Woodpecker in your repositories. For now, refer to the [Gitea VCS integration section](https://woodpecker-ci.org/docs/administration/forges/gitea).
 
 ## Using TTGit actions
-Forgejo, the software TTGit is built on, offers a CI/CD feature called Actions. It offers compatibility with GitHub Actions, [with some differences](https://docs.gitea.com/usage/actions/comparison). Further information such as how to run it is available in the [Using Gitea actions](/ttgit/actions) page.
+Forgejo, the software TTGit is built on, offers a CI/CD feature called Actions. It offers compatibility with GitHub Actions, [with some differences](https://docs.gitea.com/usage/actions/comparison). Further information such as how to run it is available in the [Using Gitea actions](/TTGit/usingactions) page.
